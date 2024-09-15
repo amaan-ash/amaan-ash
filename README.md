@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **skamaanali07@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1oXFfaAxn9ib9jnFIL8UJb--ILa9JTfgy/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1uSJGObgoxPTew4VpziClbEj6-ZhH_3fL/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
