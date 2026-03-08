@@ -1,10 +1,13 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Amaan+Ali;Computer+Engineering+Student;Aspiring+Mobile+App+Developer;Learning+Android+Development+%26+DSA" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Amaan Ali</h1>
 <h3 align="center">Computer Engineering Student | Aspiring Mobile App Developer</h3>
 
 <p align="center">
 <a href="https://discord.com">
 <img src="https://img.shields.io/badge/Discord-amaan8675-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
 </a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/amaanalishaikh/">
@@ -55,7 +58,6 @@
 <tr>
 <td><b>Android UI:</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=androidstudio" height="40"/>
 <img src="https://img.shields.io/badge/XML-Layout-blue?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
 </td>
@@ -105,7 +107,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=amaan-ash&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amaan-ash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 
 ---
@@ -113,7 +115,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=amaan-ash&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=amaan-ash&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -121,7 +123,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amaan-ash&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amaan-ash&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
