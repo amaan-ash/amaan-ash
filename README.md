@@ -3,7 +3,8 @@
 
 <p align="center">
 <a href="https://discord.com">
-<img src="https://skillicons.dev/icons?i=discord" height="40"/>
+<img src="https://img.shields.io/badge/Discord-amaan8675-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 </a>
 &nbsp;&nbsp;
 <a href="https://linkedin.com/in/amaanalishaikh/">
