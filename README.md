@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amaan Ali</h1>
-<h3 align="center">Computer Engineering Student | Aspiring Android Developer</h3>
+<h3 align="center">Computer Engineering Student | Aspiring Mobile App Developer</h3>
 
 <p align="center">
 <a href="https://discord.com">
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=amaan-ash&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -46,16 +46,17 @@
 <img src="https://skillicons.dev/icons?i=kotlin" height="40"/>
 <img src="https://skillicons.dev/icons?i=cpp" height="40"/>
 <img src="https://skillicons.dev/icons?i=c" height="40"/>
+<img src="https://skillicons.dev/icons?i=dart" height="40"/>
 <img src="https://skillicons.dev/icons?i=python" height="40"/>
 </td>
 </tr>
 
 <tr>
-<td><b>Frontend:</b></td>
+<td><b>Android UI:</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=html" height="40"/>
-<img src="https://skillicons.dev/icons?i=css" height="40"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+<img src="https://skillicons.dev/icons?i=androidstudio" height="40"/>
+<img src="https://img.shields.io/badge/XML-Layout-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white"/>
 </td>
 </tr>
 
@@ -63,6 +64,7 @@
 <td><b>Mobile Development:</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=androidstudio" height="40"/>
+<img src="https://skillicons.dev/icons?i=flutter" height="40"/>
 </td>
 </tr>
 
@@ -80,6 +82,9 @@
 <img src="https://skillicons.dev/icons?i=git" height="40"/>
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
 <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+<img src="https://skillicons.dev/icons?i=idea" height="40"/>
+<img src="https://skillicons.dev/icons?i=postman" height="40"/>
+<img src="https://skillicons.dev/icons?i=figma" height="40"/>
 </td>
 </tr>
 
