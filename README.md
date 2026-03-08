@@ -2,8 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Amaan+Ali;Computer+Engineering+Student;Aspiring+Mobile+App+Developer;Learning+Android+Development+%26+DSA" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Amaan Ali</h1>
-<h3 align="center">Computer Engineering Student | Aspiring Mobile App Developer</h3>
 
 <p align="center">
 <a href="https://discord.com">
