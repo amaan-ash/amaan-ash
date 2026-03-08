@@ -2,9 +2,25 @@
 <h3 align="center">Computer Engineering Student | Aspiring Android Developer</h3>
 
 <p align="center">
-📍 Mumbai, India <br>
-📱 Learning Modern Android Development <br>
-🧠 Practicing Data Structures & Algorithms
+<a href="https://discord.com">
+<img src="https://skillicons.dev/icons?i=discord" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/amaanalishaikh/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:skamaanali07@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
+
+<p align="center">
+✨ | Let's Transform Ideas to Reality! | ✨
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -14,36 +30,66 @@
 - 🎓 B.Tech Computer Engineering Student  
 - 📱 Currently learning **Modern Android Development**
 - 🧠 Practicing **Data Structures & Algorithms**
-- 🔧 Interested in building **useful mobile applications**
-- 📚 Always learning new technologies
+- 🛠 Interested in building **useful mobile applications**
+- 📍 Based in **Mumbai, India**
 
 ---
 
-## 🛠 Tools & Technologies
+# 💻 Tech Stack
 
 <table>
+
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>Java</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50"/><br>Kotlin</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/><br>C++</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50"/><br>Android Studio</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git</td>
+<td><b>Programming:</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=java" height="40"/>
+<img src="https://skillicons.dev/icons?i=kotlin" height="40"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+<img src="https://skillicons.dev/icons?i=c" height="40"/>
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+</td>
 </tr>
 
 <tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>GitHub</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br>VS Code</td>
+<td><b>Frontend:</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=html" height="40"/>
+<img src="https://skillicons.dev/icons?i=css" height="40"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+</td>
 </tr>
+
+<tr>
+<td><b>Mobile Development:</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=androidstudio" height="40"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Database:</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=firebase" height="40"/>
+<img src="https://skillicons.dev/icons?i=sqlite" height="40"/>
+</td>
+</tr>
+
+<tr>
+<td><b>Tools:</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+</td>
+</tr>
+
 </table>
 
 ---
 
 ## 📚 Currently Learning
 
-- Modern Android Architecture (MVVM)
+- Android Architecture (MVVM)
 - Kotlin Coroutines
 - REST API Integration
 - Data Structures & Algorithms
@@ -53,7 +99,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=amaan-ash&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
@@ -61,24 +107,24 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=amaan-ash&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amaan-ash&theme=tokyo-night"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
-- GitHub: https://github.com/YOUR_USERNAME  
-- Email: your_email@example.com
+📧 skamaanali07@gmail.com  
+🔗 https://github.com/amaan-ash
 
 ---
 
-⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐ From [amaan-ash](https://github.com/amaan-ash)
